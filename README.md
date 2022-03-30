@@ -1,7 +1,7 @@
 # Music Structure Boundary Estimation using Laplacian Approximation Novelty
 
 ### Requirements
-You need to have the SSALAMI 2.0 [annotations](https://github.com/DDMAL/salami-data-public) and respective audio.
+You need to have the SALAMI 2.0 [annotations](https://github.com/DDMAL/salami-data-public) and respective audio.
 
 Your python installation needs to contain the following modules:
 ```
