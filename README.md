@@ -1,7 +1,7 @@
 # Music Structure Boundary Estimation using Laplacian Approximation Novelty
 
 ### Requirements
-You need to have the SALAMI 2.0 [annotations](https://github.com/DDMAL/salami-data-public) and respective audio.
+You need to have the SALAMI 2.0 [annotations](https://github.com/DDMAL/salami-data-public) and their respective audio.
 
 Your python installation needs to contain the following modules:
 ```
@@ -13,4 +13,4 @@ matplotlib
 joblib
 ```
 ### Running
-A `.sh` script is provided to convert the SALAMI audio to .wav from .mp3 for faster loading. You can define the audio and annotation directory in the python notebook.
+A `.sh` script is provided to convert the SALAMI audio to .wav from .mp3 for faster loading. You can define the audio and annotation directory in the python notebook. The notebook cells should be run in order. Explanations for their function is provided.
